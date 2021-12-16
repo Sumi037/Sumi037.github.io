@@ -6,6 +6,6 @@ url: "https://github.com/Sumi037/Sumi037.github.io"
 github_username: Sumi037
 
 
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
